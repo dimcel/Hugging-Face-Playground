@@ -8,4 +8,10 @@ datasets
 librosa
 soundfile
 gradio
+timm
+inflect
+phonemizer
+torchaudio
+pydub
+opencv-python
 
